@@ -18,7 +18,7 @@ const getData = async () => {
 };
 
 const getRandomAge = () => {
-    let newAge = Math.floor(Math.random() * 90)
+    let newAge = Math.floor(Math.random() * 100)
     return newAge;
 };
 
